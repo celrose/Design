@@ -1,2 +1,6 @@
 # Design
-Some HTML + CSS
+Some practice for HTML + CSS
+
+Project for Soft Eng subject
+
+
